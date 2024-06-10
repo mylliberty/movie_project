@@ -24,4 +24,6 @@ Welcome to the Movie App, a simple web application to explore and discover movie
  * Account for admin status is 
  > username: dana 
  > password: dana
- 
+
+ * If you want to see the database using VScode, here is the links
+mongodb+srv://dana:dana@cluster0.dfjnrfx.mongodb.net/MovieDB
